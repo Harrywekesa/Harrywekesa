@@ -16,12 +16,15 @@
 
 ## 🧑‍💻 Who I Am
 
-I'm an **ICT TVET lecturer** at Kitale National Polytechnic and a **software developer** who ships real Android and web applications — not tutorials, not demos, real tools used by real people.
+Software developer building web and mobile systems for education and government in Kenya.
+Currently building: CBET/TVET management systems, Android apps with Kotlin & Jetpack Compose, React web apps
+Teaching: Web Development & Internet-Based Programming at Kitale National Polytechnic
+Reach me: harrisonwekesa09@gmail.com
 
 ```kotlin
 val harrison = Developer(
     name      = "Harrison Wekesa Wanjala",
-    role      = listOf("ICT Lecturer", "Android Developer", "Content Creator","Full-Stack Web developer","Prompt Engineer"),
+    role      = listOf("Full-Stack Web developer", "Android Developer", "Content Creator","ICT Lecturer","Prompt Engineer"),
     location  = "Kitale, Kenya 🇰🇪",
     institution = "Kitale National Polytechnic — 12,000+ students",
     currentFocus = listOf(
@@ -121,7 +124,7 @@ val harrison = Developer(
 [![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harrisonweks)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrisonwekesa09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-wekesa/)
-[![KNP](https://img.shields.io/badge/Kitale_National_Polytechnic-0ea5e9?style=for-the-badge&logo=academia&logoColor=white)](http://www.kitalenationalpolytechnic.ac.ke)
+
 
 </div>
 
