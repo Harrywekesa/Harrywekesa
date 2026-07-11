@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Harrison%20Wekesa%20Wanjala&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=ICT%20Educator%20%7C%20Android%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Harrison%20Wekesa%20Wanjala&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ICT%20Trainer%20%7C%20Kitale%2C%20Kenya&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Android+apps+that+actually+ship+%F0%9F%9A%80;Teaching+ICT+at+Kitale+National+Polytechnic+%F0%9F%8F%AB;Kotlin+%7C+Jetpack+Compose+%7C+Supabase+%7C+PHP;From+Kitale%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA+%E2%80%94+building+for+the+world" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+web+%26+mobile+systems+for+education+and+gov%3B;Teaching+ICT+at+Kitale+National+Polytechnic%3B;PHP+%7C+Kotlin+%7C+React+%7C+MySQL%3B;From+Kitale%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
 
 <br/>
 
@@ -24,14 +24,14 @@ Reach me: harrisonwekesa09@gmail.com
 ```kotlin
 val harrison = Developer(
     name      = "Harrison Wekesa Wanjala",
-    role      = listOf("Full-Stack Web developer", "Android Developer", "Content Creator","ICT Lecturer","Prompt Engineer"),
+    role      = listOf("Full-Stack Developer", "Android Developer", "ICT Trainer"),
     location  = "Kitale, Kenya 🇰🇪",
-    institution = "Kitale National Polytechnic — 12,000+ students",
+    institution = "Kitale National Polytechnic",
     currentFocus = listOf(
-        "KNP Live Scores App (Kotlin + Jetpack Compose + Supabase)",
-        "AI-powered Exam Proctoring App (BLE + Gemini API)",
-    ),
-    sideHustles = listOf("Tuk-tuk business", "Small-scale farming", "Faceless YouTube/TikTok")
+        "EPOE — CBET portfolio management system for TVET",
+        "Steer — peer-to-peer vehicle hire app (React, 12 screens)",
+        "KNP Live Scores — Kotlin + Jetpack Compose + Supabase"
+    )
 )
 ```
 
@@ -77,9 +77,11 @@ val harrison = Developer(
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **KNP Live Scores** | Real-time football tournament app for 12,000+ KNP students | Kotlin · Jetpack Compose · Supabase · OneSignal | 🔨 Active |
+| **EPOE** | CBET portfolio management system for TVET workflows | PHP 8.2 · MySQL · MVC | ✅ Built |
+| **Steer** | Peer-to-peer vehicle hire app, driver/owner flows | React | 🔨 Prototype |
+| **TNC Recruitment Portal** | Full recruitment system for Trans Nzoia County 2026 cycle | PHP · MySQL · LAMP | ✅ Deployed |
+| **KNP Live Scores** | Real-time football tournament app for KNP | Kotlin · Jetpack Compose · Supabase · OneSignal | 🔨 Active |
 | **Exam Proctoring App** | AI-powered Android proctoring using BLE scanning + camera detection | Kotlin · BLE · Magnetometer · Gemini API | 🔨 Active |
-| **TNC Recruitment Portal** | Full recruitment system for Trans Nzoia County 2026 cycle | PHP · MySQL · XAMPP · LAMP | ✅ Deployed |
 | **Tuk-Tuk Manager** | Android finance tracker for my tuk-tuk business | Kotlin · Room · Firebase · MPAndroidChart | ✅ Complete |
 
 ---
@@ -121,10 +123,10 @@ val harrison = Developer(
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harrywekesa.github.io/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harrisonweks)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrisonwekesa09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-wekesa/)
-
 
 </div>
 
